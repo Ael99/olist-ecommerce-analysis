@@ -1,0 +1,16 @@
+# Secrets — never upload these
+.env
+
+# Data files — too large for GitHub
+data/
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Pipeline state
+data/pipeline_state.txt
+
+# PowerPoint output (optional — remove this line if you want to include it)
+*.pptx

@@ -1,0 +1,7 @@
+kaggle
+pandas
+sqlalchemy
+pyodbc
+python-dotenv
+schedule
+loguru
