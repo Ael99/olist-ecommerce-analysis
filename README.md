@@ -6,6 +6,7 @@ A personal data analytics project analyzing 2 years of Brazilian ecommerce data.
 - Python pipeline that downloads and processes 99,000+ orders weekly
 - SQL Server database with star schema (6 tables)
 - Power BI dashboard with 4 pages of analysis
+![Dashboard](dashboard.png)
 
 ## Tools Used
 - Python 3.12
